@@ -6,10 +6,10 @@ A very small Rust program, used in CDS 210 discussion 2 to practice working on o
 cargo run
 ```
 
-## Crew name
+## name
 
 _not chosen yet_
 
 ## Members
 
-- _nobody has signed on yet_
+- println!("  Jeremi");
