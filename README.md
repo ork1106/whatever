@@ -12,4 +12,8 @@ _not chosen yet_
 
 ## Members
 
-- println!("  Jeremi");
+<<<<<<< HEAD
+- Jeremi.md
+=======
+- println!("  - omesh.md");
+>>>>>>> main
